@@ -1,0 +1,1 @@
+we can install the git from the git hub and all the file can save from terminal 
